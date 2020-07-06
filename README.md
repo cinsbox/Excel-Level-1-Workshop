@@ -20,7 +20,7 @@
 * VLOOKUP (exact match)
 * Pivot table and chart
 
-## References
+### References
 * [Covid-19 Data](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 * [Broadway Data](https://corgis-edu.github.io/corgis/csv/broadway/)
 
