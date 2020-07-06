@@ -20,4 +20,8 @@
 * VLOOKUP (exact match)
 * Pivot table and chart
 
+## References
+* [Covid-19 Data](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+* [Broadway Data](https://corgis-edu.github.io/corgis/csv/broadway/)
+
 ###### This content is created specifically for CMC's QCL Workshop.  Anyone who is interested in learning the workshop content should be able to do so by following the workshop instruction slides after downloading the work files.   
